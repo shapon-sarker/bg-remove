@@ -11,6 +11,11 @@ A powerful web application that removes backgrounds from images using AI. Built 
 - Download processed images
 - Mobile-responsive design
 - File size limit: 16MB
+![01](https://github.com/user-attachments/assets/a7704661-0f11-4cc6-baae-bfcc3076bed2)
+![02](https://github.com/user-attachments/assets/97a77992-90ba-4622-96cd-e6f1a4d01362)
+
+
+
 
 ## Tech Stack
 
